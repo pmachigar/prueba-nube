@@ -1,7 +1,7 @@
 
 providers.tf
 
-Deben setarse los valores con su propia cuenta de aws-amplify-react
+Deben setearse los valores con su propia cuenta de aws
 
 access_key = ""
 secret_key = ""
@@ -12,5 +12,5 @@ o setearlo en providers
 
 keypair.ft
 
-dben crear y setear su propio certificado su popio cvertificado.
+Deben crear y setear su propio certificado su popio cvertificado.
  public_key = ""# prueba-terraform-aws
