@@ -1,0 +1,6 @@
+project_name  = "prueba-tiendanube"
+vpc_id        = "vpc-6bb04016"
+ami_id        = "ami-0bcc094591f354be2"
+instance_type = "t2.micro"
+access_key = "AKIAVSS3JWMCHRKCOIWA"
+secret_key = "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"
